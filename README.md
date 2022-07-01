@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adarsh Pandey
-- 👀 I’m interested in CP, Web dev
+- 👀 I’m interested in CP
 - 🌱 I’m currently learning C++,DSA
 - 📫 How to reach me adarshpandey1331@gmail.com
 
